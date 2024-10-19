@@ -7,9 +7,9 @@ from moviepy.editor import *
 # video_file = "https://www.youtube.com/watch?v=I1YjnG4G-ZI"
 
 # set the path to the video file
-video_file = "./video_samples/video.mp4.mkv"
+video_file = "./video_samples/drei_spatzen.webm"
 # set name of the output file
-output_file = "./audio_samples/VG-Wort_podcast.wav"
+output_file = "./audio_samples/drei_spatzen.wav"
 
 #load the video clip 
 video = VideoFileClip(video_file)
