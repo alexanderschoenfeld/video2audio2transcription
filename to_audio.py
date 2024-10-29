@@ -9,7 +9,7 @@ from moviepy.editor import *
 # set the path to the video file
 video_file = "./video_samples/drei_spatzen.webm"
 # set name of the output file
-output_file = "./audio_samples/drei_spatzen.wav"
+output_file = "./audio_samples/die_drei_spatzen.wav"
 
 #load the video clip 
 video = VideoFileClip(video_file)

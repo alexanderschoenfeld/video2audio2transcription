@@ -17,7 +17,7 @@ language = "de-DE"
 speech_config = speechsdk.SpeechConfig(subscription=speech_key, region=service_region, speech_recognition_language=language)
 
 # Set the audio file path
-audio_file = "./audio_samples/myfile.wav"
+audio_file = "./audio_samples/die_drei_spatzen.wav"
 
 # Set up the audio configuration
 audio_config = speechsdk.audio.AudioConfig(filename=audio_file)
