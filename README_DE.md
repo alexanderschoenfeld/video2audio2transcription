@@ -1,5 +1,7 @@
 # Video-zu-Audio-zu-Transkript
-GitHub-Repo: [https://github.com/alexanderschoenfeld/video-audio-transcription](https://github.com/alexanderschoenfeld/video-audio-transcription)
+GitHub-Repo: [https://github.com/alexanderschoenfeld/video2audio2transcription](https://github.com/alexanderschoenfeld/video2audio2transcription)
+
+Link: [ReadMe file](README.md) in English
 
 #### Voraussetzungen:
 Du benötigst ein **Microsoft Azure-Konto**, welches du hier erhalten kannst: https://azure.microsoft.com/
